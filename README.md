@@ -14,3 +14,7 @@ The model is run for 50 epochs and the final accurcy is 98.7% with baseline erro
 
 Relevant graphs are below. 
 
+![1](https://user-images.githubusercontent.com/22190738/36728897-5730f8e6-1be8-11e8-93bd-366d67482e2a.png)
+
+
+![2](https://user-images.githubusercontent.com/22190738/36728906-5c58e05e-1be8-11e8-8a46-c6b4747ad50b.png)
