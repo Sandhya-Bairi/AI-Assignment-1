@@ -4,4 +4,13 @@ This assignment shows the classification of MNIST dataset using feed-forward ANN
 
 In order to run the available code, the following python libraries are required: Keras, numpy, matplotlib.
 
-The model contains two 
+The model contains two hidden layers which use relu activation function each followed by dropout of value 0.5 to reduce overfitting.
+
+The output layer uses softmax activation funtion. The optimizer used is adam and loss function is Categorical Crossentropy. 
+
+![1](https://user-images.githubusercontent.com/22190738/36728551-1eab4c52-1be7-11e8-9d58-e027a130cea2.png)
+
+The model is run for 50 epochs and the final accurcy is 98.7% with baseline error of 1.3%.
+
+Relevant graphs are below. 
+
